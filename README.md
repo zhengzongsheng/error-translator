@@ -21,7 +21,7 @@ function translate(language: string)
 
 | parameter | description                 |
 | --------- | --------------------------- |
-| language  | The word want to translate. |
+| language  | Translated language.        |
 
 > Note: If no language is specified, the language will be Chinese.
 
