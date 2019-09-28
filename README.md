@@ -3,11 +3,11 @@ Translate the error text into different languages
 
 ## Features
 
-![one](.\img\one.png)
+![one](./img/one.png)
 
 
 
-![two](.\img\two.png)
+![two](./img/two.png)
 
 ## Installation
 
