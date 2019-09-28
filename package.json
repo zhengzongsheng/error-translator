@@ -1,0 +1,19 @@
+{
+  "name": "error-translator",
+  "version": "1.0.1",
+  "description": "Translate the error text into different languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhengzongsheng",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhengzongsheng/error-translator.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "translator-promise": "^1.0.2"
+  }
+}
